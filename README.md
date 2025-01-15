@@ -1,7 +1,14 @@
-![Visitor Count](https://profile-counter.glitch.me/{Esrighni}/count.svg)
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayoub-essarghini.ayoub-essarghini" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Es+sarghini!;" />
+</h1>
 
+<h3 align="center">A passionate software developer from Morocco </h3>
+
+<div align="center">
+     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aes-sarg" alt="aes-sarg 42 stats" /></a>
+</div>
 
 
 # Hi there, I'm Ayoub! 👋
