@@ -1,14 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayoub-essarghini.ayoub-essarghini" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Esrighni.Esrighni" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Es+sarghini!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Esrighni!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Morocco </h3>
-
-<div align="center">
-     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/aes-sarg" alt="aes-sarg 42 stats" /></a>
-</div>
+<h3 align="center">A Data analysis student from Morocco </h3>
 
 
 # Hi there, I'm Ayoub! 👋
