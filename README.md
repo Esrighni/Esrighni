@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Esrighni.Esrighni" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=page.id" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayoub+Esrighni!;" />
@@ -6,8 +6,6 @@
 
 <h3 align="center">A Data analysis student from Morocco </h3>
 
-
-# Hi there, I'm Ayoub! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a focus on data analysis, web development, and security systems. Here's what I love working on:
 
