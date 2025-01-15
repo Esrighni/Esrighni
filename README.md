@@ -1,5 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Esrighni}/count.svg)
-https://badges.pufler.dev/visits/{Esrghni}/{repo}
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 
 
