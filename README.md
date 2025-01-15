@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+
 # Hi there, I'm Ayoub! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a focus on data analysis, web development, and security systems. Here's what I love working on:
