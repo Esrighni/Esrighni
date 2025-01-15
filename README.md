@@ -1,4 +1,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Esrighni}/count.svg)
+https://badges.pufler.dev/visits/{Esrghni}/{repo}
+
+
 
 
 # Hi there, I'm Ayoub! 👋
