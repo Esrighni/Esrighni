@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - **Data Analysis**: Python (Matplotlib, Plotly), Excel, CSV Handling
 - **Networking & Security**: CCTV systems, IP cameras, fire/intrusion alarm systems
 - **Tools**: Microsoft Office Suite, Adobe Photoshop & Illustrator
-- **Frameworks**: Tkinter, PyQt5, Laravel
+- **Frameworks**: Tkinter, Laravel
 
 ---
 
@@ -42,14 +42,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 
 - **Tech Horizons**: A web app for managing an online magazine, developed using Laravel.
 - **Surveillance System Showcase**: Organized events to introduce new CCTV brands to technicians.
-
----
-
-## 📚 Learning Journey
-
-- Currently enhancing skills in **OOP (Object-Oriented Programming)**.
-- Exploring advanced features of **Laravel** and **JavaScript**.
-- Working on integrating back-end functionality into my projects.
 
 ---
 
